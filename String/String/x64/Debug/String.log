@@ -1,0 +1,2 @@
+﻿  BT2.cpp
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\getting-started-c\String\String\BT2.cpp(10,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
