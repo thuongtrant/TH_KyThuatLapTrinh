@@ -45,9 +45,9 @@
 //{
 //	int n;
 //	cin >> n; 
-//		//cout << tong(n);
-//		//cout << cong(n);
-//		//cout << s3(n);
+//		cout << tong(n);
+//		cout << cong(n);
+//		cout << s3(n);
 //		cout << S4(n);
 //
 //}

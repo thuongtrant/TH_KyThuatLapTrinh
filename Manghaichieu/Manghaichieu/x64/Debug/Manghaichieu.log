@@ -1,5 +1,15 @@
-﻿  BT10.cpp
+﻿  Bt.cpp
+  BT1.cpp
+  BT10.cpp
+  BT11.cpp
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\TH_KyThuatLapTrinh\Manghaichieu\Manghaichieu\BT11.cpp(37,10): warning C4102: 'comeback': unreferenced label
+  BT2.cpp
+  BT3.cpp
+  BT4.cpp
+  BT5.cpp
+  BT6.cpp
   BT7.cpp
   BT8.cpp
+  Thuchanh.cpp
   Generating Code...
-  Manghaichieu.vcxproj -> D:\Users\ttthu\OneDrive\Documents\Repository\Github\getting-started-c\Manghaichieu\x64\Debug\Manghaichieu.exe
+  Manghaichieu.vcxproj -> D:\Users\ttthu\OneDrive\Documents\Repository\Github\TH_KyThuatLapTrinh\Manghaichieu\x64\Debug\Manghaichieu.exe

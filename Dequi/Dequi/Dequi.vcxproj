@@ -134,6 +134,7 @@
     <ClCompile Include="BT2.cpp" />
     <ClCompile Include="BT3.cpp" />
     <ClCompile Include="BT4.cpp" />
+    <ClCompile Include="BT5.cpp" />
     <ClCompile Include="BT6.cpp" />
     <ClCompile Include="BT7.cpp" />
     <ClCompile Include="BT8_9.cpp" />

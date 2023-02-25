@@ -27,7 +27,7 @@
     <ClCompile Include="BT4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BT6.cpp">
+    <ClCompile Include="BT5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="BT7.cpp">
@@ -46,6 +46,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="ThapHaNoi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BT6.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
