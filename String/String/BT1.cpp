@@ -32,7 +32,8 @@
 //	cout << s1 << endl << s2;
 //	
 //	//char* strcat(char* s1, const char* s2);
-//	strcat(s1, s2);
-//	cout << s1 << endl;
+//	/*strcat(s1, s2);
+//	cout << s1 << endl;*/
 //	
+//
 //}

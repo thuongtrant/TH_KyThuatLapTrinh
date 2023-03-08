@@ -1,2 +1,5 @@
-﻿  BT2.cpp
-D:\Users\ttthu\OneDrive\Documents\Repository\Github\getting-started-c\String\String\BT2.cpp(10,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  BT1.cpp
+  BT2.cpp
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\TH_KyThuatLapTrinh\String\String\BT2.cpp(8,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\TH_KyThuatLapTrinh\String\String\BT2.cpp(12,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...

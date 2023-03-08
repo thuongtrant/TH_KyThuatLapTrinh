@@ -1,12 +1,15 @@
-
 #include <iostream>
 #include <cstring>
 using namespace std;
+int main()
+{
+	char s1[] = "Ho, ten";
+	char s2[] = " ";
+	char* ptok = strtok(s1, s2);
+	while (ptok != NULL)
+	{
+		cout << ptok << endl;
+		ptok = strtok(NULL, s2);
+	}
 
-int main() {
-    char str1[20] = "I Lov";
-    char str2[10] = "e You";
-
-    strcat(str1, str2);
-    cout << str1;
 }
