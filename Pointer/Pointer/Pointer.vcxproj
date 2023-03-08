@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BT.cpp" />
     <ClCompile Include="BT1.cpp" />
     <ClCompile Include="BT10.cpp" />
     <ClCompile Include="BT2.cpp" />
@@ -136,6 +137,7 @@
     <ClCompile Include="BT7.cpp" />
     <ClCompile Include="BT8.cpp" />
     <ClCompile Include="BT9.cpp" />
+    <ClCompile Include="SumSNT.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

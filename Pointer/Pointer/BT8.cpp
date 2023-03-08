@@ -1,27 +1,29 @@
 //#include <iostream>
 //#include<cstdlib>
 //using namespace std;
-//void nhap(int **a, int r, int c)
-//{
-//	for(int i=0;i<r;i++)
-//	{
-//		for(int j=0;i<c;j++)
-//		{
-//			cin >> a[i][j];
-//		}
-//	}
-//}
-//void xuat(int** a, int r, int c)
-//{
-//	for (int i = 0; i < r; i++)
-//	{
-//		for (int j = 0; i < c; j++)
-//		{
-//			cout <<  a[i][j] << " ";
-//		}
-//		cout << endl;
-//	}
-//}
+//
+////void nhap(int **a, int r, int c)
+////{
+////	for(int i=0;i<r;i++)
+////	{
+////		for(int j=0;i<c;j++)
+////		{
+////			cin >> a[i][j];
+////		}
+////	}
+////}
+////void xuat(int** a, int r, int c)
+////{
+////	for (int i = 0; i < r; i++)
+////	{
+////		for (int j = 0; i < c; j++)
+////		{
+////			cout <<  a[i][j] << " ";
+////		}
+////		cout << endl;
+////	}
+////}
+//
 //int giaithua(int n)
 //{
 //	if (n == 1 || n == 0)
@@ -52,7 +54,7 @@
 //	int r, c;
 //	cin >> r >> c ;
 //	a = new int* [100];
-//	//nhap(a, r, c);
+//	
 //	for (size_t i = 0; i < r; i++)
 //	{
 //		a[i] = new int[100];
@@ -81,7 +83,7 @@
 //		cout << endl;
 //	}
 //	int h;
-//	cout << "Nhap chieu cao cua tam giac Pascal: ";
+//	cout << "nhap chieu cao cua tam giac pascal: ";
 //	cin >> h;
 //	pascal(h);
 //	return 0;

@@ -42,5 +42,11 @@
     <ClCompile Include="BT10.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SumSNT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
